@@ -1,0 +1,27 @@
+.add-recipe {
+  text-align: center;
+  padding: 20px;
+}
+
+.add-recipe input,
+.add-recipe textarea {
+  display: block;
+  width: 80%;
+  margin: 10px auto;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.add-recipe button {
+  padding: 10px 15px;
+  background-color: #ff5733;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-recipe button:hover {
+  background-color: #e64a19;
+}
